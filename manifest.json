@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-08-05T23:22:09Z",
+  "live": [
+    {
+      "id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "urls": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/action/action-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/action/action-hover.gif",
+        "backdrop": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/action/action-backdrop.jpg"
+      },
+      "folder_title": "Action",
+      "collection_title": "Genres"
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-08-05-supergirl",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-05",
+      "created_at": "2026-08-05T17:40:09Z",
+      "movie_title": "Supergirl",
+      "movie_id": 1081003,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-05-supergirl-cover.png",
+        "hover": "genres/action/2026/2026-08-05-supergirl-hover.gif",
+        "thumb": "genres/action/2026/2026-08-05-supergirl-thumb.webp"
+      },
+      "bytes": {
+        "cover": 460403,
+        "hover": 561114,
+        "thumb": 18360
+      },
+      "folder_title": "Action",
+      "collection_title": "Genres"
+    },
+    {
+      "id": "2026-08-05-avatar-aang-the-last-airbender",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-05",
+      "created_at": "2026-08-05T17:38:33Z",
+      "movie_title": "Avatar Aang: The Last Airbender",
+      "movie_id": 980431,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-cover.png",
+        "hover": "genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-hover.gif",
+        "thumb": "genres/action/2026/2026-08-05-avatar-aang-the-last-airbender-thumb.webp"
+      },
+      "bytes": {
+        "cover": 297084,
+        "hover": 374872,
+        "thumb": 13362
+      },
+      "folder_title": "Action",
+      "collection_title": "Genres"
+    },
+    {
+      "id": "2026-08-05-the-mandalorian-and-grogu",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-05",
+      "created_at": "2026-08-05T17:35:31Z",
+      "movie_title": "The Mandalorian and Grogu",
+      "movie_id": 1228710,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-the-mandalorian-and-grogu-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-the-mandalorian-and-grogu-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-the-mandalorian-and-grogu-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-05-the-mandalorian-and-grogu-cover.png",
+        "hover": "genres/action/2026/2026-08-05-the-mandalorian-and-grogu-hover.gif",
+        "thumb": "genres/action/2026/2026-08-05-the-mandalorian-and-grogu-thumb.webp"
+      },
+      "bytes": {
+        "cover": 376836,
+        "hover": 478881,
+        "thumb": 13474
+      },
+      "folder_title": "Action",
+      "collection_title": "Genres"
+    },
+    {
+      "id": "2026-08-05-masters-of-the-universe",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-05",
+      "created_at": "2026-08-05T17:29:43Z",
+      "movie_title": "Masters of the Universe",
+      "movie_id": 454639,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-masters-of-the-universe-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-masters-of-the-universe-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-masters-of-the-universe-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-05-masters-of-the-universe-cover.png",
+        "hover": "genres/action/2026/2026-08-05-masters-of-the-universe-hover.gif",
+        "thumb": "genres/action/2026/2026-08-05-masters-of-the-universe-thumb.webp"
+      },
+      "bytes": {
+        "cover": 383985,
+        "hover": 479634,
+        "thumb": 15132
+      },
+      "folder_title": "Action",
+      "collection_title": "Genres"
+    }
+  ]
+}
